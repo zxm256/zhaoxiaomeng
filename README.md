@@ -10,4 +10,3 @@ Here are some ideas to get you started.
 - 👯 I’m looking to collaborate on GmSSL 
 - 🤔 I’m looking for help with browser development 
 - 💬 Ask me about cryptography and network security
-- 📫 How to reach me: zhaopku09@gmail.com
